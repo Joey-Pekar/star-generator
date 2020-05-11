@@ -1,1 +1,0 @@
-# star-generator
